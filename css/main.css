@@ -1,0 +1,67 @@
+/*
+Colors to use:
+dark blue: #06365f
+light blue: #1c5380
+*/
+
+body {
+  font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+  color: red;
+  background-color: white;
+}
+
+.content {
+	color: #06365f;
+  background-color: white;
+  margin: -50px 150px 80px 480px;
+  max-width: 500px;
+  max-height: 200px;
+  height:   500px;
+  border-radius: 3px;
+  padding: 10px 35px 280px 35px;
+  box-shadow: 5px 5px 20px #888888;
+}
+header {
+  background-color: #1c5380;
+  height: 360px;
+}
+h1 {
+  color: white;
+}
+img {
+margin: 205px 0 0 475px;
+}
+footer ul li {
+  text-decoration: none;
+  display: inline;
+  margin-top: 500px;
+  position: absolute;
+  padding: 0 100px 0 0px;
+}
+
+footer ul li a{
+  text-decoration: none;
+  display: inline;
+  margin-top: 500px;
+  position: absolute;
+
+}
+footer {
+  max-width: 450px;
+  width: 400px;
+}
+#bottomImg {
+  margin: 70px 0 0 20px;
+  float: left;
+}
+#bottomImg2 {
+  margin: -50px 130px 0 280px;
+  float: right;
+}
+
+.row img {
+margin: -160px 20px 20px 110px;
+float: left;
+position: absolute;
+}
